@@ -1,0 +1,83 @@
+.nav{
+  float:right;
+  font-size:25px;
+  padding-right:30px;
+  padding-lefy:30px;
+  postion:fixed;
+}
+.container-fluid{
+}
+.navbar-brand{
+  font-size:25px;
+
+}
+img{
+padding:5px;
+  backgrond-color:white;
+}
+#about{
+  background-color:grey;
+}
+#about-data{
+  font-size:30px;
+  font-family:monospace;
+   text-color:#fff;
+
+}
+#about-back{
+}
+#portfolio{
+}
+h1{
+  text-align:center;
+  text-color:white;
+}
+h1{
+        font-size: 40px;
+        z-index: 1;
+        position: relative;
+        text-align: center;
+  text-color:white;  
+  font-family:monospace;
+}
+
+    .line{
+        background: #000;
+        border-top: solid 1px black;
+        position: absolute;
+        height: 1px;
+        display: block;
+        top: 20px;
+        width: 100%;
+    }
+
+    .text{
+        background-color: #FFFFFF;
+        z-index: 20;
+        position: relative;
+        text-align: center;
+        padding: 0 34px;
+    }
+.section-about{
+  background-color:#8E388E;
+  text-color:white;
+}
+#portfolio{
+  background-color:#F0E68C;
+}
+#section-contact{
+  background-color:#71C671;
+}
+h3{
+  color:white;
+  font-family:monospace;
+}
+#footer1{
+  background-color:#8470FF;
+}
+h2{
+  color:white;
+}
+.jumbotron{
+  background-color:black;
+}
