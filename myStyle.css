@@ -73,11 +73,14 @@ h3{
   font-family:monospace;
 }
 #footer1{
-  background-color:#8470FF;
+ padding:5px 0px 0px 0px;
+margin:2px 2px 0px 2px;
+  background-color:black;
 }
 h2{
   color:white;
 }
 .jumbotron{
-  background-color:black;
+margin:0px 2px 0px 2px;
+  background-color:#9999ff;
 }
